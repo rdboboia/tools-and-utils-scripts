@@ -1,0 +1,13 @@
+<Configuration>
+	<VGpu>Default</VGpu>
+	<Networking>Default</Networking>
+	<MappedFolders>
+		<MappedFolder>
+			<HostFolder>D:\[TOOLS]\Windows Sandbox Utils\Scripts</HostFolder>
+			<ReadOnly>true</ReadOnly>
+		</MappedFolder>
+	</MappedFolders>
+	<LogonCommand>
+		<Command>C:\Users\WDAGUtilityAccount\Desktop\Scripts\[exec-all-found-scripts].bat</Command>
+	</LogonCommand>
+</Configuration>
