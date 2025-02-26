@@ -1,3 +1,7 @@
+# IMPORTANT; READ FIRST
+Seems like Steam FINALLY allows for the update mode to be changed globally from the settings, so this script is no longer needed.
+I will keep it uploaded anyways, but yeah, it's finally unnecessary :D
+
 # disable-steam-auto-update
 A script that disables Steam's auto update for each installed game.
 
